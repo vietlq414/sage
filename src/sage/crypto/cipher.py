@@ -22,7 +22,7 @@ class Cipher(Element):
     def __init__(self, parent, key):
         """
         Create a cipher.
-
+r
         INPUT: Parent and key
 
         EXAMPLES: None yet
